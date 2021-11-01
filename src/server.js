@@ -69,7 +69,7 @@ app.get("/recommend", (req, res) => {
     if (Number(userId) > 53424 || Number(userId) < 0) {
         res.send("User Id cannot be greater than 53,424 or less than 0!")
     } else {
-        recs = model.recommend(userId)
+        let recs = model.recommend(userId)
             .then((recs) => {
                 res.render("index", { recommendations: recs, forUser: true })
             })

@@ -10,7 +10,7 @@ class Books extends React.Component {
 		super(props);
 		
 		this.state = {
-			books: books.splice(0,12) 
+			books: books.splice(0,3) 
 		};
 	}
 	
