@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# react-express-tensorflow
+
+Converting a previous vanilla JavaScript project to a React web application.
+
+Click [here](https://github.com/michellelally/tensorflow-book-app) to read more about what this application can do. 
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
