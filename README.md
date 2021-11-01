@@ -4,6 +4,12 @@ Converting a previous vanilla JavaScript project to a React web application.
 
 Click [here](https://github.com/michellelally/tensorflow-book-app) to read more about what this application can do. 
 
+## Technologies
+
+- React.js
+- Tensorflow.js
+- Keras
+- Express
 
 ## Getting Started with Create React App
 
